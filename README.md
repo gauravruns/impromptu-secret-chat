@@ -2,7 +2,7 @@
 
 > **Ephemeral Secret Conversations & Anonymous Q&A for Friends**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-00FF88?style=for-the-badge&logo=github)](https://gauravruns.github.io/Impromptu-3/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-00FF88?style=for-the-badge&logo=github)](https://gauravruns.github.io/impromptu-secret-chat/)
 [![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite_4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase_10-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -88,8 +88,8 @@ Impromptu-3/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gauravruns/Impromptu-3.git
-   cd Impromptu-3
+   git clone git@github.com:gauravruns/impromptu-secret-chat.git
+   cd impromptu-secret-chat
    ```
 
 2. **Install dependencies**:

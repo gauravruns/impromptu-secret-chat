@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // This tells GitHub Pages where to find your files
-  base: '/Impromptu-3/', 
+  base: '/impromptu-secret-chat/', 
   plugins: [react()],
   define: {
     // These are your real Firebase keys injecting into the app
